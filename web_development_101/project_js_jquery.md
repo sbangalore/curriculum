@@ -435,5 +435,6 @@ If you get totally stuck, solutions from other students are listed below.  I'd e
 * [Thomas McGrath's Solution](https://github.com/tmcgrath299/sketchpad) | [View in Browser](http://htmlpreview.github.io/?https://github.com/tmcgrath299/sketchpad/blob/master/index.html)
 * [Emily Brooks' Solution](https://github.com/emily-brooks/javascript)
 * [Lien's Solution](https://github.com/lhphan/sketchpad) | [View in browser](https://lhphan.github.io/sketchpad/)
-* [Fred Rhae's Solution] (https://github.com/fredrhae/odin_project_javascript-jquery) | [View in browser] (http://htmlpreview.github.io/?https://github.com/fredrhae/odin_project_javascript-jquery/blob/master/index.html) 
+* [Fred Rhae's Solution] (https://github.com/fredrhae/odin_project_javascript-jquery) | [View in browser] (http://htmlpreview.github.io/?https://github.com/fredrhae/odin_project_javascript-jquery/blob/master/index.html)
+* [Sudarshan's Solution](https://github.com/sbangalore/projectPaintSquare) | [View in Browser](https://rawgit.com/sbangalore/projectPaintSquare/master/index.html)
 * Add your solution above this line!
